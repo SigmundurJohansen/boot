@@ -1,0 +1,88 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"D:/tools/mingw/include",
+						"D:/tools/mingw/include/c++/4.8.3",
+						"D:/tools/mingw/include/c++/4.8.3/x86_64-w64-mingw32",
+						"D:/tools/mingw/include/c++/4.8.3/backward",
+						"D:/tools/mingw/lib64/gcc/x86_64-w64-mingw32/4.8.3/include",
+						"D:/tools/mingw/lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed",
+						"D:/tools/mingw/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"D:/tools/mingw/lib64/gcc/x86_64-w64-mingw32/4.8.3",
+						"D:/tools/mingw/lib64/gcc",
+						"D:/tools/mingw/x86_64-w64-mingw32/lib",
+						"D:/tools/mingw/lib64"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "D:/tools/mingw/bin/x86_64-w64-mingw32-g++.exe",
+				"version" : "4.8.3"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"m",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "D:/tools/mingw/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,3 @@
+D:/dev/boot/build/CMakeFiles/Boot.dir
+D:/dev/boot/build/CMakeFiles/edit_cache.dir
+D:/dev/boot/build/CMakeFiles/rebuild_cache.dir

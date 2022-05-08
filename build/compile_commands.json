@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/dev/boot/build",
+  "command": "D:\\tools\\mingw\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=gnu++1y -o CMakeFiles\\Boot.dir\\main.cpp.obj -c D:\\dev\\boot\\main.cpp",
+  "file": "D:/dev/boot/main.cpp"
+}
+]

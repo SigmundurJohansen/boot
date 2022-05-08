@@ -1,0 +1,3 @@
+D:\Programs\CMake\bin\cmake.exe -E rm -f CMakeFiles\Boot.dir/objects.a
+D:\tools\mingw\bin\ar.exe qc CMakeFiles\Boot.dir/objects.a @CMakeFiles\Boot.dir\objects1.rsp
+D:\tools\mingw\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\Boot.dir/objects.a -Wl,--no-whole-archive -o Boot.exe -Wl,--out-implib,libBoot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Boot.dir\linklibs.rsp
